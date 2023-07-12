@@ -17,12 +17,14 @@
 </p>
 ### 🖥️ Tecnologias e Ferramentas(aprendendo):
 <img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="MYSQL" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="PowerBI" height="30" widht="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
-<img align="center" alt="Excel" height="30" widht="40" src="https://camo.githubusercontent.com/ffea726e7de217e274b7163aa2fb6ca29e9bb7d680521f84dafc41fabdada54c/68747470733a2f2f692e6c6f6c692e6e65742f323032312f31312f32332f6c4b587842316643774c6376485a4d2e706e67">
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title = "PYTHON"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tableau-icon.svg" title = "TABLEAU"/></code>
+<code><img width="40px"src="https://camo.githubusercontent.com/ffea726e7de217e274b7163aa2fb6ca29e9bb7d680521f84dafc41fabdada54c/68747470733a2f2f692e6c6f6c692e6e65742f323032312f31312f32332f6c4b587842316643774c6376485a4d2e706e67" title = "EXCEL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title = "POWER BI"/></code>
 
-          
+
+        
 
 
 </p>
