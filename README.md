@@ -16,7 +16,6 @@
   <img src="https://media1.giphy.com/media/eLvUXqCY7w5sqHM8Eo/giphy.gif?cid=ecf05e47haig300e4mn75qil3incpyn77fq2oxndweqzxwgq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350">
 </p>
 ### 🖥️ Tecnologias e Ferramentas(aprendendo):
-<img width="300px" align="right" src="https://i.ibb.co/LPnMBtL/796fc635-b4eb-497c-8606-6623a2ed4e6d-Photo-Room-png-Photo-Room.png">
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tableau-icon.svg" title = "TABLEAU"/></code>
 <code><img width="40px"src="https://camo.githubusercontent.com/ffea726e7de217e274b7163aa2fb6ca29e9bb7d680521f84dafc41fabdada54c/68747470733a2f2f692e6c6f6c692e6e65742f323032312f31312f32332f6c4b587842316643774c6376485a4d2e706e67" title = "EXCEL"/></code>
