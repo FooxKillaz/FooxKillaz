@@ -36,6 +36,6 @@ Graduando em **Engenharia de Software**, focado no desenvolvimento de sistemas r
 
 ### 📫 Conecte-se comigo:
 <div align="left">
-  <a href="https://www.linkedin.com/in/victor-angel-813a01206/" target="_blank"><img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linkedin.svg" /></a>
-  <a href="mailto:seu-email@exemplo.com"><img alt="Email" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" /></a>
+  <a href="https://www.linkedin.com/in/victorangelz/" target="_blank"><img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linkedin.svg" /></a>
+
 </div>
