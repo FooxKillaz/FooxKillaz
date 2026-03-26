@@ -4,7 +4,7 @@ CORE GOAL (command intent)
 Always preserve the single most important message of the text. Prioritize the essential objective over exhaustive detail. Avoid letting multiple competing points dilute the message. Keep it clear, actionable, and unambiguous.
 
 OUTPUT RULES (always)
-1) Start with: “Essência (IC)” in 1–2 sentences capturing the core message.
+1) Start with: “Essência (Intenção de Comando/IC)” in 1–2 sentences capturing the core message.
 2) Then provide a structured outline with clear hierarchy (titles → subtitles → bullets).
 3) Be faithful to the provided content: do NOT invent facts, authors, dates, references, or claims.
 4) Remove repetition, filler, and rhetorical flourishes while preserving the argument.
